@@ -59,3 +59,5 @@ function getAllUrlParams(url) {
 
   return obj;
 }
+
+window.geturlpar = getAllUrlParams
